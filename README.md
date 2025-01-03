@@ -1,4 +1,4 @@
-<img src="banner/Hı!.png" alt="GitHub Banner" width="100%" />
+<img src="banner/hello.png" alt="GitHub Banner" width="100%" />
 
 # 💫 About Me:
 🗿   Full-stack developer with expertise in both back-end and front-end development.<br>🧑🏻‍💻  Proficient in Laravel, with experience in e-commerce, CRM systems, and tracking applications.<br>🧑🏻‍🚀  Exploring new technologies like Node.js and Next.js to expand my skill set.<br>🎨  Passionate about art and design, bringing creativity into my work.<br>🧠  Enjoy solving complex problems and building innovative solutions.<br>🫱🏻‍🫲🏼  Dedicated to continuous learning and sharing knowledge with others.
