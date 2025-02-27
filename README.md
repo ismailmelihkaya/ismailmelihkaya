@@ -85,10 +85,6 @@
 
 # 📊 GitHub Stats:
 
-![](https://github-readme-stats.vercel.app/api?username=ismailmelihkaya&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=ismailmelihkaya&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ismailmelihkaya&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
 ## 🏆 GitHub Trophies
 
 ![](https://github-profile-trophy.vercel.app/?username=ismailmelihkaya&theme=radical&no-frame=false&no-bg=false&margin-w=4)
@@ -97,9 +93,6 @@
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
 
-### 🔝 Top Contributed Repo
-
-![](https://github-contributor-stats.vercel.app/api?username=ismailmelihkaya&limit=5&theme=radical&combine_all_yearly_contributions=true)
 
 ---
 
